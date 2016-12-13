@@ -1,0 +1,21 @@
+p.signature {
+    font-style: italic;
+    text-align: right;
+    color: orange;
+    font-family: "Alex Brush", serif;
+    font-size: 175%;
+}
+ 
+p.portfolio {
+    text-align: center;
+    
+}
+.mySlides {
+    display:none
+}
+.demo {
+    cursor:pointer
+}
+
+
+
